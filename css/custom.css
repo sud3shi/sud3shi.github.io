@@ -12,3 +12,11 @@
     width:40% !important;
     height:20% !important;
 }
+#banner-footer {
+    height: 200px;
+    width: 100%;
+    color: rgb(78, 8, 95);
+}
+#contact-us-section {
+    text-align: center;
+}
