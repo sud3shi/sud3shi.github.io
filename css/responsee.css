@@ -30,14 +30,14 @@ h5 {font-size:1.1rem;}
 h6 {font-size:0.9rem;}    
 a, a:link, a:visited, a:hover, a:active {
   text-decoration:none;
-  color:#9BB800;
+  color:#f7941d;
   transition:color 0.20s linear 0s;
   -o-transition:color 0.20s linear 0s;
   -ms-transition:color 0.20s linear 0s;
   -moz-transition:color 0.20s linear 0s;
   -webkit-transition:color 0.20s linear 0s;
 }  
-a:hover {color:#B6C900;}
+a:hover {color:#f7941d;}
 p,li,dl,blockquote,table,kbd {
   font-size: 0.85rem;
   line-height: 1.6;
@@ -302,7 +302,7 @@ nav.breadcrumb-nav ul {
 }
 nav.breadcrumb-nav ul li {float:left;}
 nav.breadcrumb-nav ul li a:hover {text-decoration:underline;}
-.breadcrumb-nav i {color:#B6C900;}
+.breadcrumb-nav i {color:#f7941d;}
 nav.breadcrumb-nav ul li:after {
   content:"/";
   margin:0 9px;
