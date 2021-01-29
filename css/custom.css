@@ -13,13 +13,28 @@
     height:20% !important;
 }
 #banner-footer {
-    height: 200px;
+    height: auto;
     width: 100%;
-    color: rgb(78, 8, 95);
+    font-family: "Open Sans",Arial,sans-serif;
+    font-size: 4.5em !important;
+    font-weight: 900;
+    display: block;
+    text-align: center;
+    align-self: center;
+    color:#868686;
+    text-transform: uppercase;
+    margin-top: 70px;
+    margin-bottom: 70px;
+
 }
 #contact-us-section {
     text-align: center;
 }
 #feature-text {
     font-size: 1.0em !important;
+}
+#nav-sud3shi-logo {
+    background-image: url("img/logo/sud3shi_white.png");
+    height: 50px !important;
+    width: 50px !important;
 }

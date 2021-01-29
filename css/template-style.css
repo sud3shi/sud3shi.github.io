@@ -73,11 +73,16 @@ header {
 	z-index: 10;
 }
 p.logo {
+	display: inline-block;
 	color: #fff;
+	padding: 10px;
 	font-size: 1.7em;
 	font-weight: 300;
 	position: relative;
-	text-transform: uppercase;
+	/* height: 30px; */
+	/* text-transform: uppercase; */
+	align-content: center;
+	align-self: center;
 	top: 17px;
 }
 p.logo strong {
@@ -229,6 +234,7 @@ article h2 {
 	font-size: 4em;
 	font-weight: 900;
 	letter-spacing: -2px;
+
 	line-height: 0.9;
 	margin: 0 0 0.625em 0
 }
