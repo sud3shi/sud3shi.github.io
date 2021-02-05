@@ -1,15 +1,20 @@
+/* HEADER */
+/* NAV-BAR */
+#nav-sud3shi-logo {
+    background-image: url("img/logo/sud3shi_white.png");
+    height: 50px !important;
+    width: 50px !important;
+}
+/* BODY */
 #img-section-logo {
     width:50% !important;
     height:50% !important;
     margin-left: auto!important;
     margin-right: auto!important;
 }
+/* WORK */
 #work-section {
     width:20% !important;
-    height:20% !important;
-}
-#contact-section {
-    width:40% !important;
     height:20% !important;
 }
 #banner-footer {
@@ -27,14 +32,38 @@
     margin-bottom: 70px;
 
 }
+
+/* CONTACT US */
+#contact-section {
+    width:40% !important;
+    height:20% !important;
+}
 #contact-us-section {
     text-align: center;
 }
+
+/* FEATURE */
 #feature-text {
     font-size: 1.0em !important;
 }
-#nav-sud3shi-logo {
-    background-image: url("img/logo/sud3shi_white.png");
-    height: 50px !important;
-    width: 50px !important;
+/* PLANS */
+#plans {
+    text-align: center;
+    color: lawngreen;
+}
+#plans img {
+    height: auto;
+    width: 60%;
+    display: inline;
+}
+.plans-title {
+    text-align: center;
+    font-size: 2.5em;
+    color: rgb(53, 53, 53);
+}
+/* FOOTER */
+#footer-copyright {
+    text-align: center;
+    font-size: 0.6em;
+    color: rgb(255, 255, 255);
 }
